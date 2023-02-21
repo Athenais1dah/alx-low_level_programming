@@ -1,11 +1,12 @@
-#!/bin/bash
 #include <stdio.h>
-/*
- *In main - A program that prints line with puts function
- *Return:0 (Sucess)
- */
+/**
+ * In main - A program that prints line with puts function
+ * Return:0 (Sucess)
+*/
+
 int main(void)
 {
-puts("Programming is like building a multilingual puzzle");
-return(0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
+
